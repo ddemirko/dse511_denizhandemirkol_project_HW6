@@ -53,4 +53,4 @@ Copy code
 jupyter notebook
 Conclusion
 The analysis provided valuable insights into the AirPassengers dataset, including the necessity of seasonal differencing and the identification of potential ARIMA components through ACF and PACF analysis. Future work could involve fitting ARIMA or SARIMA models for forecasting.
-
+Time series analysis was conducted again using R and R Studio for this assignment.
